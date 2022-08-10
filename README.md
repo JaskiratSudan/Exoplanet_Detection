@@ -1,7 +1,7 @@
 
 # Exoplanet_Detection
 
-![Transit Method](https://www.researchgate.net/profile/Andrew-Mao-2/publication/312524607/figure/fig1/AS:452176024739840@1484818573073/A-light-curve-showing-the-transit-method-of-detecting-exoplanets.png)
+![Transit Method](https://qph.cf2.quoracdn.net/main-qimg-8bd6bbc8397413753f5d2eba266fd946.webp)
 I am trying to understand how Exoplanets are detected using different methods.
 
 Their are mainly 5 methods to detect Exoplanets:
