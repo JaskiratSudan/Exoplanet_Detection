@@ -2,6 +2,7 @@
 # Exoplanet_Detection
 
 ![Transit Method](https://qph.cf2.quoracdn.net/main-qimg-8bd6bbc8397413753f5d2eba266fd946.webp)
+
 I am trying to understand how Exoplanets are detected using different methods.
 
 Their are mainly 5 methods to detect Exoplanets:
