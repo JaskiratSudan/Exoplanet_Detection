@@ -13,4 +13,4 @@ Their are mainly 5 methods to detect Exoplanets:
 - Gravitational Microlensing: Light from a distant star is bent and focused by gravity as a planet passes between the star and Earth.
 - Astrometry: The orbit of a planet can cause a star to wobble around in space in relation to nearby stars in the sky.
 
-I have used Transit method for now, but will add different methodsin the future.
+I have used Transit method for now, but will add different methods in the future.
