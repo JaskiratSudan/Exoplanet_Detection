@@ -14,3 +14,5 @@ Their are mainly 5 methods to detect Exoplanets:
 - Astrometry: The orbit of a planet can cause a star to wobble around in space in relation to nearby stars in the sky.
 
 I have used Transit method for now, but will add different methods in the future.
+
+You can use my notebook to analyse different stars and detect exoplanets.
